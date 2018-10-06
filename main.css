@@ -646,11 +646,10 @@ h3{
 		 display: flex;
 		 justify-content: space-between;
 	}
-	.contant_text{
+	.contant_text {
 		
 		display: flex;
 		justify-content: flex-start;
-		font-size: 1em;
 		width: 45%;
 		height: 500px;
 		overflow: hidden;
