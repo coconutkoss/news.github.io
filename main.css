@@ -184,37 +184,37 @@ p {
 
 .slider{
 	width: 50%;
-	height: 300px;
+	height: 350px;
 }
 .slider_too{
 	
 	width: 50%;
-	height: 300px;
+	height: 350px;
 	display: flex;
 }
 .slider_too img {
 	width: 100%;
-	height: 300px;
+	height: 350px;
 }
 
 .slider img {
 	width: 100%;
-	height: 300px;
+	height: 350px;
 }
 #slider__1{
 	width: 100%;
-	height: 300px;
+	height: 350px;
 	
 }
 #slider__2{
 	width: 100%;
-	height: 300px;
+	height: 350px;
 	
 }
 
 #slider__3{
 	width: 100%;
-	height: 300px;
+	height: 350px;
 	
 }
 .contant_too{
@@ -355,6 +355,15 @@ h3{
 		top:0;
 		z-index: 999;
 	}
+	.header_logo {
+	width: 20%;
+	height: 100%;
+
+}
+	.header_menu {
+	width: 13%;
+	height: 100%;
+}
 	.header_text h1 {
 		font-size: 1em;
 	}
